@@ -10,7 +10,6 @@ Clone the repository and open the project in **Xcode**.
 ```sh
 git clone https://github.com/takehika0129/no6-ios-note-taking-app.git
 ```
-Run the app on an iPhone simulator or a real device running iOS 15+.
 
 ## Concept
 [Visit (takehika0129.github.io)](https://takehika0129.github.io/takehika-github-pages/reviews/prototype6.html)
