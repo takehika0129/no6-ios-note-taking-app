@@ -1,0 +1,17 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/
+xcuserdata/
+xcshareddata/
+
+# macOS system files
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+
+# CocoaPods (if used)
+Pods/
+Podfile.lock
+
